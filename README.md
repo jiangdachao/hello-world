@@ -1,4 +1,5 @@
 # hello-world
-##NEw feture 1
+##NEw feture 
 ### new feture 2
-GitHub QuickStart 
+GitHub QuickStart change through vscode
+#add new features via vscode
